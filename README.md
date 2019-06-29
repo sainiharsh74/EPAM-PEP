@@ -1,3 +1,3 @@
 # EPAM-PEP
-first assignment
+assignment
 ( 29june219exception handling task)
